@@ -1,0 +1,4 @@
+*.ckpt
+*.pyc
+models/ldm/stable-diffusion-v1/model.safetensors
+src/taming-transformers
